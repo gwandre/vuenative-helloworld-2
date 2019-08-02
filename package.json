@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "expo": "^34.0.1",
+    "metro": "^0.55.0",
+    "metro-bundler": "^0.22.1",
+    "metro-react-native-babel-transformer": "^0.55.0",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.0.tar.gz",
